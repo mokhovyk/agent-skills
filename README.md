@@ -11,6 +11,7 @@ Compatible with [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [
 |-------|-------------|
 | [code-review](./code-review/SKILL.md) | Review code changes for bugs, security issues, performance problems, and best practice violations. |
 | [create-new-skill](./create-new-skill/SKILL.md) | Create new agent skills with proper structure, progressive disclosure, and bundled resources. |
+| [session-roast](./session-roast/SKILL.md) | Roast and grade a coding-agent session for token efficiency across Claude Code, Codex, and Cursor. |
 | [tdd](./tdd/SKILL.md) | Test-driven development workflow. Write the test first, watch it fail, write minimal code to pass. |
 
 
